@@ -1,0 +1,6 @@
+parameter,value
+priorSpam,0.4
+priorHam,0.6
+vocabularySize,10000
+totalSpamWords,25000
+totalHamWords,20000
